@@ -7,3 +7,7 @@ build/
 docs/
 .supabase/
 *.tsbuildinfo
+
+# Config MCP de projeto: vai receber tokens e chaves (GitHub, Supabase escrita).
+# NUNCA versionar.
+.mcp.json
